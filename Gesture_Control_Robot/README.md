@@ -2,7 +2,7 @@
 
 > **A wireless robotic vehicle controlled using hand gestures with MPU6050, Arduino, and Bluetooth.**
 
-![Project]([docs/hardware/complete-setup.jpg](https://github.com/anumulavijaya41-netizen/Gesture-Controlled-Robotic-Vehicle/blob/83443c263a3d2ad272480295dd76b45cf484b2ea/Gesture_Control_Robot/System_Flow.png))
+![docs/hardware/complete-setup.jpg](https://github.com/anumulavijaya41-netizen/Gesture-Controlled-Robotic-Vehicle/blob/83443c263a3d2ad272480295dd76b45cf484b2ea/Gesture_Control_Robot/System_Flow.png)
 
 ---
 
