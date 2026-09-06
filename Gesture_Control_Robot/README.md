@@ -32,7 +32,7 @@ The **MPU6050** detects hand acceleration, the **transmitter Arduino** converts 
 
 ## 🧩 System Block Diagram
 
-![System Block Diagram]([docs/architecture/complete-system.png](https://github.com/anumulavijaya41-netizen/Gesture-Controlled-Robotic-Vehicle/blob/83443c263a3d2ad272480295dd76b45cf484b2ea/Gesture_Control_Robot/block_diagram.png))
+![docs/architecture/complete-system.png](https://github.com/anumulavijaya41-netizen/Gesture-Controlled-Robotic-Vehicle/blob/83443c263a3d2ad272480295dd76b45cf484b2ea/Gesture_Control_Robot/block_diagram.png)
 
 ### Transmitter
 
