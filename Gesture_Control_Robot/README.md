@@ -2,7 +2,7 @@
 
 > **A wireless robotic vehicle controlled using hand gestures with MPU6050, Arduino, and Bluetooth.**
 
-![Project](docs/hardware/complete-setup.jpg)
+![Project]([docs/hardware/complete-setup.jpg](https://github.com/anumulavijaya41-netizen/Gesture-Controlled-Robotic-Vehicle/blob/83443c263a3d2ad272480295dd76b45cf484b2ea/Gesture_Control_Robot/System_Flow.png))
 
 ---
 
@@ -32,7 +32,7 @@ The **MPU6050** detects hand acceleration, the **transmitter Arduino** converts 
 
 ## 🧩 System Block Diagram
 
-![System Block Diagram](docs/architecture/complete-system.png)
+![System Block Diagram]([docs/architecture/complete-system.png](https://github.com/anumulavijaya41-netizen/Gesture-Controlled-Robotic-Vehicle/blob/83443c263a3d2ad272480295dd76b45cf484b2ea/Gesture_Control_Robot/block_diagram.png))
 
 ### Transmitter
 
@@ -200,16 +200,6 @@ gesture-controlled-robot/
 
 ---
 
-## 🎨 Tinkercad Visualization
-
-Tinkercad diagrams are included to make the hardware connections easier to understand.
-
-![Tinkercad Circuit](docs/tinkercad/complete-circuit.png)
-
-> **Note:** Tinkercad diagrams are used mainly for circuit and wiring visualization. Actual Bluetooth communication was tested on the physical hardware.
-
----
-
 ## 🚀 Features
 
 * ✋ Hand gesture-based control
@@ -242,7 +232,6 @@ The current system uses **fixed acceleration thresholds** for gesture detection 
 
 **Vijayalakshmi Anumula**
 
-*Add team members here.*
 
 ---
 
